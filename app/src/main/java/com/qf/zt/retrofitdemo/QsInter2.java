@@ -13,7 +13,7 @@ import retrofit2.http.Query;
 
 public interface QsInter2 {
     /**
-     *
+     *哈哈哈哈
      * http://m2.qiushibaike.com/article/list/text?page=%d
      public final static String URL_PIC= "/article/list/pic";
      * @return
